@@ -55,11 +55,11 @@ mypy  # https://github.com/python/mypy
 bandit # Bandit is a tool designed to find common security issues in Python code. See https://pypi.org/project/bandit/
 
 yahooquery==1.0.11
-pydeck==0.2.0
+pydeck
 # Windows: pip install torch==1.7.1 torchvision==0.8.2 -f https://download.pytorch.org/whl/torch_stable.html
-torch==1.5.0+cpu
-torchvision==0.6.0+cpu
-pandas-profiling==2.8.0
+torch
+torchvision
+pandas-profiling
 streamz
 yfinance>=0.1.63
 diskcache
